@@ -1,3 +1,5 @@
+<img src="pm.jpg" width='100'/>
+
 # PacMan ***Lives***
 MITxPro project writing a program demonstrating PacMan bouncing from one edge of the screen to the other looking for something (***anything!***) to eat.
 ### Details 
