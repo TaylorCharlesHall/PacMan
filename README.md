@@ -7,4 +7,4 @@ The program makes use of four images depending on the direction of movement on t
 #### Potential Improvements
 Have a Pacman eat other Pacmen and grow bigger depending on number met.
 #### How to Run
-Install dependencies from the repository [here](https://github.com/TaylorCharlesHall/PacMan) into the same directory. Drag and drop index file into any browser.
+Install dependencies from the [repository](https://github.com/TaylorCharlesHall/PacMan) into the same directory. Drag and drop index file into any browser.
